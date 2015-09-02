@@ -1,1 +1,1 @@
-find . -name "*.project" | tar -cf my_archive -T -
+find ~/apps/nature -name "*.project" | tar cfP my_archive -T -

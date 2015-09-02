@@ -1,1 +1,1 @@
-tar xpf my_archive.tar
+tar xpfP my_archive -C ~/apps/nature 
